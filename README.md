@@ -1,7 +1,14 @@
 # Vue 3 + Vite
 
 # UI-kit
-
+- Buttons 
+- Checkboxes
+- Switches
+- RadioButtons 
+- Progress
+- Inputs
+- Tabs
+- Tables
 ## Деплой
 
 
